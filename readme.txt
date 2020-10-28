@@ -25,6 +25,8 @@ You may also try [Mailster Cool Captcha for Forms](https://wordpress.org/plugins
 1. Option Interface.
 
 == Changelog ==
+= 1.7 =
+* fixed: conflict with CF7 reCaptcha
 
 = 1.6 =
 * only output script if form has been rendered.

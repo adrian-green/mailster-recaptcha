@@ -132,6 +132,11 @@ class MailsterRecaptcha {
 			return $entry;
 		}
 
+		if ( isset( $_POST['_wpcf7_recaptcha_response'] ) ) {
+
+			return $entry;
+		}
+
 		if ( isset( $_POST['g-recaptcha-response'] ) ) {
 
 			$body = array(

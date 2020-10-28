@@ -9,7 +9,7 @@ Author URI: https://mailster.co
 Text Domain: mailster-recaptcha
 License: GPLv2 or later
 */
-define( 'MAILSTER_RECAPTCHA_VERSION', '1.6' );
+define( 'MAILSTER_RECAPTCHA_VERSION', '1.7' );
 define( 'MAILSTER_RECAPTCHA_REQUIRED_VERSION', '2.2' );
 define( 'MAILSTER_RECAPTCHA_FILE', __FILE__ );
 
